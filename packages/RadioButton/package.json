@@ -1,7 +1,6 @@
 {
   "name": "@rn-lib-mr/RadioButton",
   "version": "0.0.1",
-  "license": "MIT",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -9,5 +8,6 @@
   },
   "dependencies": {
     "typescript": "^5.3.3"
-  }
+  },
+  "gitHead": "9a54384b2eb1c244b6f30e6bff2a56387075953d"
 }
