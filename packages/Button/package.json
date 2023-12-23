@@ -1,13 +1,14 @@
 {
   "name": "@rn-lib-mr/Button",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
     "start": "node ./dist/app.js"
   },
   "dependencies": {
+    "lerna": "^8.0.1",
     "typescript": "^5.3.3"
   }
 }
